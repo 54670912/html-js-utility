@@ -1,7 +1,9 @@
 <p align="center">
   <img src="banner.png" alt="HTML JS Utility Banner" width="100%">
 </p>
+
 # HTML JS Utility 🚀
+
 EN: A simple library for learning, with basic HTML and JavaScript utilities to practice coding and reuse functions.# HTML JS Utility
 
 A simple library created for study purposes, combining basic HTML and JavaScript utilities. This project helps beginners practice coding, improve logic, and organize reusable functions for future web projects.
