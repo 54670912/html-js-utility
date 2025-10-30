@@ -2,7 +2,7 @@
   <img src="banner.png" alt="HTML JS Utility Banner" width="100%">
 </p>
 
-<h1 align="center">🚀 HTML JS Utility</h1>
+# 🚀 HTML JS Utility
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=54670912&label=👀+Visualizações&color=blue&style=flat-square" alt="Contador de Visualizações"/>
@@ -19,24 +19,29 @@
 
 ---
 
-## 📘 Sobre o Projeto
-**HTML JS Utility** é uma biblioteca educacional desenvolvida para ajudar iniciantes a praticar programação com **HTML e JavaScript**.  
-Com ela, você pode aprender lógica, criar funções reutilizáveis e montar mini projetos que evoluem suas habilidades no front-end.  
-
-> 🧠 Ideal para estudantes, curiosos em tecnologia ou quem quer entender a base da web de forma simples e prática!
+### 💡 Uma biblioteca simples para aprender e praticar **HTML e JavaScript**.
 
 ---
 
-## ⚙️ Funcionalidades
-✅ Funções JavaScript básicas (soma, média, manipulação de texto)  
-🧩 Estruturas HTML simples para aprendizado visual  
-🔁 Códigos reutilizáveis e fáceis de modificar  
-🌐 Design limpo, direto e didático  
-📂 Organização pensada para aprendizado passo a passo  
+## 📘 Sobre / About  
+
+🇧🇷 **HTML JS Utility** é uma biblioteca simples para aprendizado, ajudando iniciantes a praticar programação, melhorar a lógica e organizar funções reutilizáveis em HTML e JavaScript.  
+
+🇺🇸 **HTML JS Utility** is a simple learning library that helps beginners practice coding, improve logic, and organize reusable HTML and JavaScript functions for future projects.  
 
 ---
 
-## 🚀 Como Usar
-Se quiser clonar o projeto localmente (opcional), use o comando abaixo no terminal:
+## ⚙️ Funcionalidades / Features  
+✅ Funções JavaScript básicas *(soma, média, manipulação de texto)*  
+🧩 Elementos HTML simples para estrutura e estilo  
+🔁 Reutilizável e fácil de modificar  
+🌐 Perfeito para iniciantes em desenvolvimento web  
+
+---
+
+## 🧠 Como Usar / How to Use  
+
+1️⃣ Clone este repositório no seu computador:  
 ```bash
 git clone https://github.com/54670912/html-js-utility.git
+
