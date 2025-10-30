@@ -5,10 +5,9 @@
 # HTML JS Utility 🚀
 
 <p align="center">
-
   <img src="https://komarev.com/ghpvc/?username=54670912&label=👀+Visualizações&color=blue&style=flat-square" alt="Contador de Visualizações"/>
-  <img src="https://img.shields.io/github/stars/54670912/html-js-utility <img src="https://img.shields.io/github/stars/54670912/html-js-utility.svg?style=flat-square&label=⭐+Stars" alt="GitHub Stars"/>
- ?style=flat-square&label=⭐+Stars" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/stars/54670912/html-js-utility.svg?style=flat-square&label=⭐+Stars" alt="GitHub Stars"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Badge">
@@ -17,6 +16,7 @@
   <img src="https://img.shields.io/badge/Project-Learning-green?style=for-the-badge&logo=openai" alt="Learning Project Badge">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=for-the-badge&logo=github" alt="Open Source Badge">
 </p>
+
 
 *A simple library for learning and practicing HTML & JavaScript.*
 
