@@ -43,7 +43,5 @@
 
 1️⃣ Clone este repositório no seu computador:  
 ```bash
-
-1️⃣ Clone este repositório no seu computador:  
-```bash
 git clone https://github.com/54670912/html-js-utility.git
+
