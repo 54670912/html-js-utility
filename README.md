@@ -1,5 +1,5 @@
 <p align="center">
-  <img src= banner.png alt="HTML JS Utility Banner" width="100%">
+  <img src= "banner.png png" alt="HTML JS Utility Banner" width="100%">
 </p>
 # HTML JS Utility 🚀
 *A simple library for learning and practicing HTML & JavaScript.*
