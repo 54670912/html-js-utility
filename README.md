@@ -2,7 +2,8 @@
   <img src="banner.png" alt="HTML JS Utility Banner" width="100%">
 </p>
 
-# HTML JS Utility 🚀  
+# HTML JS Utility 🚀
+
 *A simple library for learning and practicing HTML & JavaScript.*
 
 <p align="center">
