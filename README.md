@@ -44,22 +44,6 @@
 1️⃣ Clone este repositório no seu computador:  
 ```bash
 
+1️⃣ Clone este repositório no seu computador:  
+```bash
 git clone https://github.com/54670912/html-js-utility.git
-
----
-
-## 👨‍💻 Autor / Author  
-**Desenvolvido por [54670912](https://github.com/54670912)**  
-✨ Aprender é o primeiro passo para criar algo incrível!  
-
----
-
-## ⬇️ Baixar o Projeto / Download Project  
-
-<p align="center">
-  <a href="https://github.com/54670912/html-js-utility/archive/refs/heads/main.zip">
-    <img src="https://img.shields.io/badge/⬇️%20Download-ZIP-blue?style=for-the-badge&logo=github" alt="Download ZIP">
-  </a>
-</p>
-
-📦 Clique no botão acima para baixar todos os arquivos do projeto em formato **.ZIP** e estudar offline!
