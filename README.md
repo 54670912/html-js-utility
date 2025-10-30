@@ -2,7 +2,7 @@
   <img src="banner.png" alt="HTML JS Utility Banner" width="100%">
 </p>
 
-# HTML JS Utility 🚀
+<h1 align="center">🚀 HTML JS Utility</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=54670912&label=👀+Visualizações&color=blue&style=flat-square" alt="Contador de Visualizações"/>
@@ -17,32 +17,26 @@
   <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=for-the-badge&logo=github" alt="Open Source Badge">
 </p>
 
+---
 
-*A simple library for learning and practicing HTML & JavaScript.*
+## 📘 Sobre o Projeto
+**HTML JS Utility** é uma biblioteca educacional desenvolvida para ajudar iniciantes a praticar programação com **HTML e JavaScript**.  
+Com ela, você pode aprender lógica, criar funções reutilizáveis e montar mini projetos que evoluem suas habilidades no front-end.  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white" alt="HTML Badge">
-  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black" alt="JavaScript Badge">
-  <img src="https://img.shields.io/badge/Status-In%20Development-blue" alt="Status Badge">
-</p>
+> 🧠 Ideal para estudantes, curiosos em tecnologia ou quem quer entender a base da web de forma simples e prática!
 
 ---
 
-## 📘 About / Sobre  
-EN: **HTML JS Utility** is a simple learning library that helps beginners practice coding, improve logic, and organize reusable HTML and JavaScript functions for future projects.  
-PT: **HTML JS Utility** é uma biblioteca simples para aprendizado, ajudando iniciantes a praticar programação, melhorar a lógica e organizar funções reutilizáveis em HTML e JavaScript.
+## ⚙️ Funcionalidades
+✅ Funções JavaScript básicas (soma, média, manipulação de texto)  
+🧩 Estruturas HTML simples para aprendizado visual  
+🔁 Códigos reutilizáveis e fáceis de modificar  
+🌐 Design limpo, direto e didático  
+📂 Organização pensada para aprendizado passo a passo  
 
 ---
 
-## ⚙️ Features / Funcionalidades  
-- ✅ Basic JavaScript functions *(sum, average, text manipulation)*  
-- 🧩 Simple HTML elements for structure and styling  
-- 🔁 Reusable and easy to modify  
-- 🌐 Perfect for beginners learning web development  
-
----
-
-## 🧠 How to Use / Como Usar  
-1️⃣ Download or clone this repository:  
+## 🚀 Como Usar
+Se quiser clonar o projeto localmente (opcional), use o comando abaixo no terminal:
 ```bash
-git clone https://github.com/SEU_USUARIO/html-js-utility.git
+git clone https://github.com/54670912/html-js-utility.git
