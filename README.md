@@ -11,15 +11,18 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Badge">
-  <img src="https://media.giphy.com/media/3o7TKxZMQXQEdP5vD6/giphy.gif" width="28">  
+  <img src="https://media.giphy.com/media/3o7TKxZMQXQEdP5vD6/giphy.gif" width="28" alt="gif-js"/>
   <img src="https://img.shields.io/badge/HTML-Utility-orange?style=for-the-badge&logo=html5" alt="HTML Badge">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="28">  
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="28" alt="gif-html"/>
   <img src="https://img.shields.io/badge/Beginner-Friendly-blue?style=for-the-badge&logo=handshake" alt="Beginner Friendly Badge">
-  <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="28">  
+  <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="28" alt="gif-beginner"/>
   <img src="https://img.shields.io/badge/Project-Learning-green?style=for-the-badge&logo=openai" alt="Learning Project Badge">
-  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="28">  
+  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="28" alt="gif-learning"/>
   <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=for-the-badge&logo=github" alt="Open Source Badge">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="28" alt="gif-opensource"/>
+  <!-- License badge + GIF restaurado ao lado -->
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=github" alt="MIT License Badge">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="28" alt="gif-license"/>
 </p>
 
 ---
@@ -49,10 +52,3 @@
 1️⃣ Clone este repositório no seu computador:  
 ```bash
 git clone https://github.com/54670912/html-js-utility.git
-
-
-
-
-
-
-
