@@ -5,6 +5,7 @@
 # 🚀 HTML JS Utility
 
 <p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=github" alt="License Badge">
   <img src="https://komarev.com/ghpvc/?username=54670912&label=👀+Visualizações&color=blue&style=flat-square" alt="Contador de Visualizações"/>
   <img src="https://img.shields.io/github/stars/54670912/html-js-utility.svg?style=flat-square&label=⭐+Stars" alt="GitHub Stars"/>
 </p>
@@ -24,13 +25,6 @@
 ---
 
 ## 📘 Sobre / About  
----
-
-## 👨‍💻 Autor / Author  
-**Desenvolvido por [Visão Top 10 Tech](https://github.com/54670912)**  
-✨ Aprender é o primeiro passo para criar algo incrível!  
-
----
 
 🇧🇷 **HTML JS Utility** é uma biblioteca simples para aprendizado, ajudando iniciantes a praticar programação, melhorar a lógica e organizar funções reutilizáveis em HTML e JavaScript.  
 
@@ -51,3 +45,5 @@
 1️⃣ Clone este repositório no seu computador:  
 ```bash
 git clone https://github.com/54670912/html-js-utility.git
+
+
