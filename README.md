@@ -1,22 +1,29 @@
-
 <p align="center">
-  <!-- GIF animado no topo -->
-  <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" alt="GIF Animado" width="100%">
+  <img src="banner.png" alt="HTML JS Utility Banner" width="100%">
 </p>
 
 # 🚀 HTML JS Utility
 
 <p align="center">
+  <img src="demo.gif" alt="Demonstração da Biblioteca" width="80%">
+</p>
+
+<p align="center">
+  <!-- Contador de visualizações -->
   <img src="https://komarev.com/ghpvc/?username=54670912&label=👀+Visualizações&color=blue&style=flat-square" alt="Contador de Visualizações"/>
+  
+  <!-- Badge de Stars -->
   <img src="https://img.shields.io/github/stars/54670912/html-js-utility.svg?style=flat-square&label=⭐+Stars" alt="GitHub Stars"/>
 </p>
 
 <p align="center">
+  <!-- Badges coloridos premium -->
   <img src="https://img.shields.io/badge/Made%20with-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Badge">
   <img src="https://img.shields.io/badge/HTML-Utility-orange?style=for-the-badge&logo=html5" alt="HTML Badge">
   <img src="https://img.shields.io/badge/Beginner-Friendly-blue?style=for-the-badge&logo=handshake" alt="Beginner Friendly Badge">
   <img src="https://img.shields.io/badge/Project-Learning-green?style=for-the-badge&logo=openai" alt="Learning Project Badge">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=for-the-badge&logo=github" alt="Open Source Badge">
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge&logo=github" alt="MIT License Badge">
 </p>
 
 ---
@@ -46,6 +53,7 @@
 1️⃣ Clone este repositório no seu computador:  
 ```bash
 git clone https://github.com/54670912/html-js-utility.git
+
 
 
 
