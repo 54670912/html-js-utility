@@ -24,6 +24,13 @@
 ---
 
 ## 📘 Sobre / About  
+---
+
+## 👨‍💻 Autor / Author  
+**Desenvolvido por [Visão Top 10 Tech](https://github.com/54670912)**  
+✨ Aprender é o primeiro passo para criar algo incrível!  
+
+---
 
 🇧🇷 **HTML JS Utility** é uma biblioteca simples para aprendizado, ajudando iniciantes a praticar programação, melhorar a lógica e organizar funções reutilizáveis em HTML e JavaScript.  
 
