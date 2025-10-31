@@ -5,8 +5,10 @@
 # 🚀 HTML JS Utility
 
 <p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=github" alt="License Badge">
+  <!-- Contador de visualizações -->
   <img src="https://komarev.com/ghpvc/?username=54670912&label=👀+Visualizações&color=blue&style=flat-square" alt="Contador de Visualizações"/>
+  
+  <!-- Badge de Stars corrigido -->
   <img src="https://img.shields.io/github/stars/54670912/html-js-utility.svg?style=flat-square&label=⭐+Stars" alt="GitHub Stars"/>
 </p>
 
@@ -33,10 +35,10 @@
 ---
 
 ## ⚙️ Funcionalidades / Features  
-✅ Funções JavaScript básicas *(soma, média, manipulação de texto)*  
-🧩 Elementos HTML simples para estrutura e estilo  
-🔁 Reutilizável e fácil de modificar  
-🌐 Perfeito para iniciantes em desenvolvimento web  
+- ✅ Funções JavaScript básicas *(soma, média, manipulação de texto)*  
+- 🧩 Elementos HTML simples para estrutura e estilo  
+- 🔁 Reutilizável e fácil de modificar  
+- 🌐 Perfeito para iniciantes em desenvolvimento web  
 
 ---
 
@@ -45,5 +47,6 @@
 1️⃣ Clone este repositório no seu computador:  
 ```bash
 git clone https://github.com/54670912/html-js-utility.git
+
 
 
