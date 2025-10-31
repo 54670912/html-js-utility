@@ -3,7 +3,7 @@
 </p>
 
 # 🚀 HTML JS Utility
-<p> Sejam bem vindo compatilhem pra fortalecer</p>
+<p> Sejam bem vindo🔥 compatilhem pra fortalecer💪</p>
 <p align="center">
   <img src="demo.gif" alt="Demonstração da Biblioteca" width="80%">
 </p>
