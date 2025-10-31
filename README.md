@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Beginner-Friendly-blue?style=for-the-badge&logo=handshake" alt="Beginner Friendly Badge">
   <img src="https://img.shields.io/badge/Project-Learning-green?style=for-the-badge&logo=openai" alt="Learning Project Badge">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=for-the-badge&logo=github" alt="Open Source Badge">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License Badge">
 </p>
 
 ---
@@ -51,5 +52,6 @@
 1️⃣ Clone este repositório no seu computador:  
 ```bash
 git clone https://github.com/54670912/html-js-utility.git
+
 
 
