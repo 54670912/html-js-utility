@@ -8,20 +8,29 @@
 <body>
   <div class="container">
     <h1>💬 Manipulador de Texto</h1>
+
+    <!-- Input de texto -->
     <input type="text" id="texto" placeholder="Digite algo...">
+
+    <!-- Botões das funções de texto -->
     <div class="botoes">
       <button onclick="converterMaiusculas()">MAIÚSCULAS</button>
       <button onclick="converterMinusculas()">minúsculas</button>
       <button onclick="contarCaracteres()">Contar Letras</button>
       <button onclick="inverterTexto()">Inverter</button>
     </div>
+
+    <!-- Botão para alternar fundo -->
+    <div class="botoes">
+      <button onclick="alternarTema()" style="padding: 10px 20px; font-size:16px; margin:10px; cursor:pointer;">
+        Alternar Fundo
+      </button>
+    </div>
+
+    <!-- Resultado -->
     <p id="resultado"></p>
   </div>
+
   <script src="script.js"></script>
 </body>
 </html>
-<button onclick="alternarTema()">Alternar Fundo</button>
-<!-- Botão para alternar fundo -->
-<button onclick="alternarTema()" style="padding: 10px 20px; font-size:16px; margin:10px; cursor:pointer;">
-  Alternar Fundo
-</button>
