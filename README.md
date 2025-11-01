@@ -20,11 +20,7 @@
 
 ---
 
-### 💡 Uma biblioteca simples para aprender e praticar **HTML e JavaScript**.
-
----
-
-## 📘 Sobre / About
+### 💡 Sobre / About
 
 🇧🇷 HTML JS Utility ajuda iniciantes a praticar programação, melhorar a lógica e organizar funções reutilizáveis.
 🇺🇸 HTML JS Utility helps beginners practice coding, improve logic, and organize reusable HTML and JavaScript functions.
@@ -58,6 +54,8 @@
 git clone https://github.com/VisaoTop10Tech/html-js-utility.git
 ```
 
+---
+
 ## 🌗 Alternar Fundo do Site
 
 Você pode alternar o fundo do site entre branco e preto com um simples clique!
@@ -85,6 +83,7 @@ function alternarTema() {
   }
 }
 ```
+
 
 
 
