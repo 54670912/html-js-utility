@@ -72,5 +72,29 @@
 ```bash
 git clone https://github.com/54670912/html-js-utility.git
 
+## 🌗 Alternar Fundo do Site
+
+Você pode alternar o fundo do site entre branco e preto com um simples clique!
+
+**Como usar:**
+1. Clique no botão “Alternar Fundo”.
+2. O site muda automaticamente entre **modo claro** e **modo escuro**.
+
+**Código usado:**
+```js
+function alternarTema() {
+  const body = document.body;
+  const temaAtual = body.dataset.tema || "claro";
+
+  if (temaAtual === "claro") {
+    body.style.backgroundColor = "#000";
+    body.style.color = "#fff";
+    body.dataset.tema = "escuro";
+  } else {
+    body.style.backgroundColor = "#fff";
+    body.style.color = "#000";
+    body.dataset.tema = "claro";
+  }
+}
 
 
