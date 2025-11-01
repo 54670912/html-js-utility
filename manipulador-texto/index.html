@@ -1,36 +1,51 @@
+
+---
+
+### 2️⃣ index.html (interativo, GitHub Pages)
+
+```html
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>💬 Manipulador de Texto</title>
-  <link rel="stylesheet" href="style.css">
+  <title>HTML JS Utility</title>
+  <style>
+    body {
+      background-color: #fff;
+      color: #000;
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      text-align: center;
+    }
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      margin: 10px;
+      cursor: pointer;
+    }
+  </style>
 </head>
 <body>
-  <div class="container">
-    <h1>💬 Manipulador de Texto</h1>
+  <h1>HTML JS Utility</h1>
+  <p>💡 Clique no botão para alternar o fundo do site entre branco e preto:</p>
+  <button onclick="alternarTema()">Alternar Fundo</button>
 
-    <!-- Input de texto -->
-    <input type="text" id="texto" placeholder="Digite algo...">
+  <script>
+    function alternarTema() {
+      const body = document.body;
+      const temaAtual = body.dataset.tema || "claro";
 
-    <!-- Botões das funções de texto -->
-    <div class="botoes">
-      <button onclick="converterMaiusculas()">MAIÚSCULAS</button>
-      <button onclick="converterMinusculas()">minúsculas</button>
-      <button onclick="contarCaracteres()">Contar Letras</button>
-      <button onclick="inverterTexto()">Inverter</button>
-    </div>
-
-    <!-- Botão para alternar fundo -->
-    <div class="botoes">
-      <button onclick="alternarTema()" style="padding: 10px 20px; font-size:16px; margin:10px; cursor:pointer;">
-        Alternar Fundo
-      </button>
-    </div>
-
-    <!-- Resultado -->
-    <p id="resultado"></p>
-  </div>
-
-  <script src="script.js"></script>
+      if (temaAtual === "claro") {
+        body.style.backgroundColor = "#000";
+        body.style.color = "#fff";
+        body.dataset.tema = "escuro";
+      } else {
+        body.style.backgroundColor = "#fff";
+        body.style.color = "#000";
+        body.dataset.tema = "claro";
+      }
+    }
+  </script>
 </body>
 </html>
+
