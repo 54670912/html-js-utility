@@ -5,8 +5,8 @@
 # 🚀 HTML JS Utility
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VisaoTop10Tech&label=👀+Visualizações&color=blue&style=flat-square" alt="Contador de Visualizações"/>
-  <img src="https://img.shields.io/github/stars/VisaoTop10Tech/html-js-utility.svg?style=for-the-badge&label=⭐+Stars" alt="GitHub Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=54670912&label=👀+Visualizações&color=blue&style=flat-square" alt="Contador de Visualizações"/>
+  <img src="https://img.shields.io/github/stars/54670912/html-js-utility.svg?style=for-the-badge&label=⭐+Stars&logo=github&logoColor=white&color=yellow" alt="GitHub Stars"/>
 </p>
 
 <p align="center">
@@ -20,69 +20,42 @@
 
 ---
 
-### 💡 Sobre / About
-
-🇧🇷 HTML JS Utility ajuda iniciantes a praticar programação, melhorar a lógica e organizar funções reutilizáveis.
-🇺🇸 HTML JS Utility helps beginners practice coding, improve logic, and organize reusable HTML and JavaScript functions.
+### 💡 Uma biblioteca simples para aprender e praticar **HTML e JavaScript**.
 
 ---
 
-## ⚙️ Funcionalidades / Features
+## 📘 Sobre / About  
 
-* ✅ Funções JavaScript básicas *(soma, média, manipulação de texto)*
-* 🧩 Elementos HTML simples para estrutura e estilo
-* 🔁 Reutilizável e fácil de modificar
-* 🌐 Perfeito para iniciantes em desenvolvimento web
+🇧🇷 **HTML JS Utility** ajuda iniciantes a praticar programação, melhorar a lógica e organizar funções reutilizáveis.  
+🇺🇸 **HTML JS Utility** helps beginners practice coding, improve logic, and organize reusable HTML and JavaScript functions.
+
+---
+
+## ⚙️ Funcionalidades / Features  
+- ✅ Funções JavaScript básicas *(soma, média, manipulação de texto)*  
+- 🧩 Elementos HTML simples para estrutura e estilo  
+- 🔁 Reutilizável e fácil de modificar  
+- 🌐 Perfeito para iniciantes em desenvolvimento web  
 
 ---
 
 ## 🖥️ Exemplos Interativos
 
-| Função                 | Demonstração                        | Arquivo                        |
-| ---------------------- | ----------------------------------- | ------------------------------ |
-| Manipulador de Texto   | ![Demo](manipulador-texto/demo.gif) | `manipulador-texto/index.html` |
-| Calculadora Básica     | ![Demo](calculadora/demo.gif)       | `calculadora/index.html`       |
-| Contador de Caracteres | ![Demo](contador/demo.gif)          | `contador/index.html`          |
+| Função                | Demonstração                           | Arquivo                         |
+|------------------------|----------------------------------------|---------------------------------|
+| Manipulador de Texto   | ![Demo](manipulador-texto/demo.gif)    | `manipulador-texto/index.html`  |
+| Calculadora Básica     | ![Demo](calculadora/demo.gif)          | `calculadora/index.html`        |
+| Contador de Caracteres | ![Demo](contador/demo.gif)             | `contador/index.html`           |
 
-> 💡 Cada miniatura GIF mostra a função em ação. Basta abrir o arquivo HTML correspondente para testar.
+> 💡 Cada miniatura GIF mostra a função em ação.  
+> Basta abrir o arquivo HTML correspondente para testar.
 
 ---
 
-## 🧠 Como Usar / How to Use
+## 🧠 Como Usar / How to Use  
 
 ```bash
-git clone https://github.com/VisaoTop10Tech/html-js-utility.git
-```
-
----
-
-## 🌗 Alternar Fundo do Site
-
-Você pode alternar o fundo do site entre branco e preto com um simples clique!
-
-**Como usar:**
-
-1. Clique no botão “Alternar Fundo”.
-2. O site muda automaticamente entre **modo claro** e **modo escuro**.
-
-**Código usado:**
-
-```js
-function alternarTema() {
-  const body = document.body;
-  const temaAtual = body.dataset.tema || "claro";
-
-  if (temaAtual === "claro") {
-    body.style.backgroundColor = "#000";
-    body.style.color = "#fff";
-    body.dataset.tema = "escuro";
-  } else {
-    body.style.backgroundColor = "#fff";
-    body.style.color = "#000";
-    body.dataset.tema = "claro";
-  }
-}
-```
+git clone https://github.com/54670912/html-js-utility.git
 
 
 
