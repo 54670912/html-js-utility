@@ -38,13 +38,31 @@
 
 ## 🖥️ Exemplos Interativos
 
-| Função                 | Demonstração                                     | Arquivo                        |
-| ---------------------- | ------------------------------------------------ | ------------------------------ |
-| Manipulador de Texto   | ![Demo](manipulador-texto/demo.gif){width=100px} | `manipulador-texto/index.html` |
-| Calculadora Básica     | ![Demo](calculadora/demo.gif){width=100px}       | `calculadora/index.html`       |
-| Contador de Caracteres | ![Demo](contador/demo.gif){width=100px}          | `contador/index.html`          |
+<p align="center">
+  <b>Manipulador de Texto</b><br>
+  <a href="manipulador-texto/index.html">
+    <img src="manipulador-texto/demo.gif" width="150px">
+  </a><br>
+  <code>manipulador-texto/index.html</code>
+</p>
 
-> 💡 Cada miniatura GIF mostra a função em ação. Abra o arquivo HTML correspondente para testar.
+<p align="center">
+  <b>Calculadora Básica</b><br>
+  <a href="calculadora/index.html">
+    <img src="calculadora/demo.gif" width="150px">
+  </a><br>
+  <code>calculadora/index.html</code>
+</p>
+
+<p align="center">
+  <b>Contador de Caracteres</b><br>
+  <a href="contador/index.html">
+    <img src="contador/demo.gif" width="150px">
+  </a><br>
+  <code>contador/index.html</code>
+</p>
+
+> 💡 Clique nos GIFs para abrir o arquivo HTML correspondente e testar a função.
 
 ---
 
@@ -60,10 +78,9 @@ git clone https://github.com/VisaoTop10Tech/html-js-utility.git
 
 Você pode alternar o fundo do site entre branco e preto com um simples clique!
 
-**Como usar:**
-
-1. Clique no botão “Alternar Fundo”.
-2. O site muda automaticamente entre **modo claro** e **modo escuro**.
+<p align="center">
+  <button onclick="alternarTema()" style="padding:10px 20px; font-size:16px; cursor:pointer;">Alternar Fundo</button>
+</p>
 
 **Código usado (script.js):**
 
