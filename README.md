@@ -5,14 +5,8 @@
 # 🚀 HTML JS Utility
 
 <p align="center">
-  <img src="demo.gif" alt="Demonstração da Biblioteca" width="80%">
-</p>
-
-<p align="center">
-  <!-- Contador de visualizações -->
   <img src="https://komarev.com/ghpvc/?username=54670912&label=👀+Visualizações&color=blue&style=flat-square" alt="Contador de Visualizações"/>
-  <!-- Badge de Stars animada -->
-  <img src="https://img.shields.io/github/stars/54670912/html-js-utility.svg?style=for-the-badge&label=⭐ Stars&logo=github&logoColor=white&color=yellow" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/stars/54670912/html-js-utility.svg?style=for-the-badge&label=⭐+Stars&logo=github&logoColor=white&color=yellow" alt="GitHub Stars"/>
 </p>
 
 <p align="center">
@@ -26,18 +20,14 @@
 
 ---
 
-### 💡 Destaque
-<div align="center" style="background-color:#FFEBCC; padding:15px; border-radius:10px;">
-<p style="color:#FF5733; font-size:16px;">Uma biblioteca simples para aprender e praticar <b>HTML e JavaScript</b> de forma divertida e organizada!</p>
-</div>
+### 💡 Uma biblioteca simples para aprender e praticar **HTML e JavaScript**.
 
 ---
 
 ## 📘 Sobre / About  
 
-🇧🇷 **HTML JS Utility** ajuda iniciantes a praticar programação, melhorar a lógica e organizar funções reutilizáveis em HTML e JavaScript.  
-
-🇺🇸 **HTML JS Utility** helps beginners practice coding, improve logic, and organize reusable HTML and JavaScript functions for future projects.
+🇧🇷 HTML JS Utility ajuda iniciantes a praticar programação, melhorar a lógica e organizar funções reutilizáveis.  
+🇺🇸 HTML JS Utility helps beginners practice coding, improve logic, and organize reusable HTML and JavaScript functions.
 
 ---
 
@@ -49,19 +39,38 @@
 
 ---
 
-## 🖥️ Exemplos de HTML & JS / Examples  
+## 🖥️ Exemplos Interativos
 
-### 1️⃣ Manipulador de Texto
-<p align="center">
-  <img src="manipulador-texto/demo.gif" alt="Manipulador de Texto GIF" width="70%">
-</p>
-📄 `manipulador-texto/index.html`  
-Exemplo para capturar texto e modificar com JavaScript:
+<table>
+  <tr>
+    <th>Função</th>
+    <th>Demonstração</th>
+    <th>Arquivo</th>
+  </tr>
+  <tr>
+    <td>Manipulador de Texto</td>
+    <td align="center"><img src="manipulador-texto/demo.gif" width="120px"></td>
+    <td><code>manipulador-texto/index.html</code></td>
+  </tr>
+  <tr>
+    <td>Calculadora Básica</td>
+    <td align="center"><img src="calculadora/demo.gif" width="120px"></td>
+    <td><code>calculadora/index.html</code></td>
+  </tr>
+  <tr>
+    <td>Contador de Caracteres</td>
+    <td align="center"><img src="contador/demo.gif" width="120px"></td>
+    <td><code>contador/index.html</code></td>
+  </tr>
+</table>
 
-```html
-<input type="text" id="texto" placeholder="Digite algo...">
-<button onclick="converterMaiusculas()">Converter para Maiúsculas</button>
-<p id="resultado"></p>
-<script src="script.js"></script>
+> 💡 Cada miniatura GIF mostra a função em ação. Basta abrir o arquivo HTML correspondente para testar.
+
+---
+
+## 🧠 Como Usar / How to Use  
+```bash
+git clone https://github.com/54670912/html-js-utility.git
+
 
 
