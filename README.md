@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- GIF animado no topo -->
-  <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" alt="GIF Animado" width="100%">
+  <img src="banner.png" alt="HTML JS Utility Banner" width="100%">
 </p>
 
 # 🚀 HTML JS Utility
