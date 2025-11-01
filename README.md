@@ -5,17 +5,17 @@
 # 🚀 HTML JS Utility
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VisãoTop10Tech&label=👀+Visualizações&color=blue&style=flat-square" alt="Contador de Visualizações"/>
-  <img src="https://img.shields.io/github/stars/VisãoTop10Tech/html-js-utility.svg?style=for-the-badge&label=⭐+Stars" alt="GitHub Stars"/>
+  ![Contador de Visualizações](https://komarev.com/ghpvc/?username=VisaoTop10Tech&label=👀+Visualizações&color=blue&style=flat-square)
+  ![GitHub Stars](https://img.shields.io/github/stars/VisaoTop10Tech/html-js-utility?style=for-the-badge&label=⭐+Stars)
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Badge">
-  <img src="https://img.shields.io/badge/HTML-Utility-orange?style=for-the-badge&logo=html5" alt="HTML Badge">
-  <img src="https://img.shields.io/badge/Beginner-Friendly-blue?style=for-the-badge&logo=handshake" alt="Beginner Friendly Badge">
-  <img src="https://img.shields.io/badge/Project-Learning-green?style=for-the-badge&logo=openai" alt="Learning Project Badge">
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=for-the-badge&logo=github" alt="Open Source Badge">
-  <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge&logo=opensource" alt="License Badge">
+  ![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow?style=for-the-badge&logo=javascript)
+  ![HTML Badge](https://img.shields.io/badge/HTML-Utility-orange?style=for-the-badge&logo=html5)
+  ![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-blue?style=for-the-badge&logo=handshake)
+  ![Learning Project](https://img.shields.io/badge/Project-Learning-green?style=for-the-badge&logo=openai)
+  ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=for-the-badge&logo=github)
+  ![License MIT](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge&logo=opensource)
 </p>
 
 ---
@@ -37,18 +37,19 @@
 
 ## 🖥️ Exemplos Interativos
 
-| Função               | Demonstração                  | Arquivo                       |
-|----------------------|-------------------------------|-------------------------------|
-| Manipulador de Texto  | ![Demo](manipulador-texto/demo.gif) | `manipulador-texto/index.html` |
-| Calculadora Básica    | ![Demo](calculadora/demo.gif)       | `calculadora/index.html`      |
-| Contador de Caracteres| ![Demo](contador/demo.gif)          | `contador/index.html`         |
+| Função                | Demonstração                  | Arquivo                       |
+|-----------------------|-------------------------------|-------------------------------|
+| Manipulador de Texto   | ![Demo](manipulador-texto/demo.gif){width=100px} | `manipulador-texto/index.html` |
+| Calculadora Básica     | ![Demo](calculadora/demo.gif){width=100px}       | `calculadora/index.html`      |
+| Contador de Caracteres | ![Demo](contador/demo.gif){width=100px}          | `contador/index.html`         |
 
-> 💡 Cada miniatura GIF mostra a função em ação. Basta abrir o arquivo HTML correspondente para testar.
+> 💡 Cada miniatura GIF mostra a função em ação. Abra o arquivo HTML correspondente para testar.
 
 ---
 
 ## 🧠 Como Usar / How to Use  
 
 ```bash
-git clone https://github.com/VisãoTop10Tech/html-js-utility.git
+git clone https://github.com/VisaoTop10Tech/html-js-utility.git
+
 
