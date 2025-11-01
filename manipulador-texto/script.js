@@ -1,3 +1,4 @@
+// ===== Manipulador de Texto =====
 function converterMaiusculas() {
   let texto = document.getElementById('texto').value;
   document.getElementById('resultado').textContent = texto.toUpperCase();
@@ -17,7 +18,8 @@ function inverterTexto() {
   let texto = document.getElementById('texto').value;
   document.getElementById('resultado').textContent = texto.split('').reverse().join('');
 }
-// Alternar entre modo claro e escuro
+
+// ===== Alternar entre modo claro e escuro =====
 function alternarTema() {
   const body = document.body;
   const temaAtual = body.dataset.tema || "claro";
@@ -32,17 +34,4 @@ function alternarTema() {
     body.dataset.tema = "claro";
   }
 }
-function alternarTema() {
-  const body = document.body;
-  const temaAtual = body.dataset.tema || "claro";
 
-  if (temaAtual === "claro") {
-    body.style.backgroundColor = "#000";
-    body.style.color = "#fff";
-    body.dataset.tema = "escuro";
-  } else {
-    body.style.backgroundColor = "#fff";
-    body.style.color = "#000";
-    body.dataset.tema = "claro";
-  }
-}
