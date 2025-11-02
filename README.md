@@ -5,8 +5,11 @@
 # 🚀 HTML JS Utility
 
 <p align="center">
+  <!-- Contador de Visualizações -->
   <img src="https://komarev.com/ghpvc/?username=54670912&label=👀+Visualizações&color=blue&style=flat-square" alt="Contador de Visualizações"/>
- <img src="https://img.shields.io/github/stars/54670912/html-js-utility?style=for-the-badge&label=⭐+Stars" alt="GitHub Stars"/>
+  <!-- Contador de Estrelas do GitHub -->
+  <img src="https://img.shields.io/github/stars/54670912/html-js-utility.svg?style=for-the-badge&label=⭐+Stars" alt="GitHub Stars"/>
+</p>
 
 
 <p align="center">
