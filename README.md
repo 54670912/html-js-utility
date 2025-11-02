@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=54670912&label=👀+Visualizações&color=blue&style=flat-square" alt="Contador de Visualizações"/>
-  <img src="https://img.shields.io/github/stars/54670912/html-js-utility.svg?style=for-the-badge&label=⭐+Stars&logo=github&logoColor=white&color=yellow" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/stars/VisaoTop10Tech/html-js-utility?style=for-the-badge&label=⭐+Stars" alt="GitHub Stars"/>
 </p>
 
 <p align="center">
@@ -20,43 +20,41 @@
 
 ---
 
-### 💡 Uma biblioteca simples para aprender e praticar **HTML e JavaScript**.
+### 💡 Sobre o Projeto / About the Project  
 
----
-
-## 📘 Sobre / About  
-
-🇧🇷 **HTML JS Utility** ajuda iniciantes a praticar programação, melhorar a lógica e organizar funções reutilizáveis.  
-🇺🇸 **HTML JS Utility** helps beginners practice coding, improve logic, and organize reusable HTML and JavaScript functions.
+🇧🇷 O **HTML JS Utility** é um projeto criado para ajudar iniciantes em programação a praticar lógica, manipular elementos HTML e explorar funções básicas em JavaScript.  
+🇺🇸 The **HTML JS Utility** project helps beginners practice logic, manipulate HTML elements, and explore basic JavaScript functions.
 
 ---
 
 ## ⚙️ Funcionalidades / Features  
-- ✅ Funções JavaScript básicas *(soma, média, manipulação de texto)*  
-- 🧩 Elementos HTML simples para estrutura e estilo  
-- 🔁 Reutilizável e fácil de modificar  
-- 🌐 Perfeito para iniciantes em desenvolvimento web  
+- ✅ Funções JavaScript úteis e reutilizáveis  
+- 💬 Manipulador de texto interativo  
+- 🔁 Ferramentas simples de aprendizado  
+- 🧩 Estrutura clara e organizada para iniciantes  
+- 🌐 100% open source  
 
 ---
 
-## 🖥️ Exemplos Interativos
+## 🖥️ Exemplo Interativo
 
-| Função                | Demonstração                           | Arquivo                         |
-|------------------------|----------------------------------------|---------------------------------|
-| Manipulador de Texto   | ![Demo](manipulador-texto/demo.gif)    | `manipulador-texto/index.html`  |
-| Calculadora Básica     | ![Demo](calculadora/demo.gif)          | `calculadora/index.html`        |
-| Contador de Caracteres | ![Demo](contador/demo.gif)             | `contador/index.html`           |
+| Função Principal | Demonstração |
+|------------------|--------------|
+| Manipulador de Texto | ![Demo](manipulador-texto/demo.gif) |
 
-> 💡 Cada miniatura GIF mostra a função em ação.  
-> Basta abrir o arquivo HTML correspondente para testar.
+> 💡 Basta abrir o arquivo `index.html` para testar a ferramenta diretamente no navegador.
 
 ---
 
 ## 🧠 Como Usar / How to Use  
 
 ```bash
-git clone https://github.com/54670912/html-js-utility.git
+# Clone este repositório
+git clone https://github.com/VisaoTop10Tech/html-js-utility.git
 
+# Abra o arquivo principal
+cd html-js-utility
+start index.html
 
 
 
