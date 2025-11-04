@@ -2,17 +2,14 @@
   <img src="banner.png" alt="HTML JS Utility Banner" width="100%">
 </p>
 
-<h1 align="center">🚀 HTML JS Utility</h1>
+# 🚀 HTML JS Utility
 
 <p align="center">
   <!-- Contador de Visualizações -->
-  <img src="https://komarev.com/ghpvc/?username=54670912&label=Visualizações&color=blue&style=flat-square" alt="Contador de Visualizações"/>
-
+  <img src="https://komarev.com/ghpvc/?username=54670912&label=👀+Visualizações&color=blue&style=flat-square" alt="Contador de Visualizações"/>
   <!-- Contador de Estrelas do GitHub -->
-  <img src="https://img.shields.io/github/stars/54670912/html-js-utility.svg?style=for-the-badge&label=Stars&logo=github&color=yellow" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/stars/54670912/html-js-utility.svg?style=for-the-badge&label=⭐+Stars" alt="GitHub Stars"/>
 </p>
-
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Badge">
@@ -25,41 +22,78 @@
 
 ---
 
-### 💡 Sobre o Projeto / About the Project  
+### 💡 Uma biblioteca simples para aprender e praticar **HTML e JavaScript**.
 
-🇧🇷 O **HTML JS Utility** é um projeto criado para ajudar iniciantes em programação a praticar lógica, manipular elementos HTML e explorar funções básicas em JavaScript.  
-🇺🇸 The **HTML JS Utility** project helps beginners practice logic, manipulate HTML elements, and explore basic JavaScript functions.
+---
+
+## 📘 Sobre / About  
+
+🇧🇷 **HTML JS Utility** ajuda iniciantes a praticar programação, melhorar a lógica e organizar funções reutilizáveis.  
+🇺🇸 **HTML JS Utility** helps beginners practice coding, improve logic, and organize reusable HTML and JavaScript functions.
 
 ---
 
 ## ⚙️ Funcionalidades / Features  
-- ✅ Funções JavaScript úteis e reutilizáveis  
-- 💬 Manipulador de texto interativo  
-- 🔁 Ferramentas simples de aprendizado  
-- 🧩 Estrutura clara e organizada para iniciantes  
-- 🌐 100% open source  
+- ✅ Funções JavaScript básicas *(soma, média, manipulação de texto)*  
+- 🧩 Estrutura HTML simples e responsiva  
+- 🔁 Reutilizável e fácil de modificar  
+- 🌐 Perfeito para iniciantes em desenvolvimento web  
 
 ---
 
-## 🖥️ Exemplo Interativo
+## 🖥️ Exemplos Interativos
 
-| Função Principal | Demonstração |
-|------------------|--------------|
-| Manipulador de Texto | ![Demo](manipulador-texto/demo.gif) |
+| Função | Demonstração | Arquivo |
+|--------|---------------|----------|
+| Manipulador de Texto | <img src="https://github.com/54670912/html-js-utility/raw/main/manipulador-texto/demo.gif" width="120px"> | `manipulador-texto/index.html` |
+| Calculadora Básica | <img src="https://github.com/54670912/html-js-utility/raw/main/calculadora/demo.gif" width="120px"> | `calculadora/index.html` |
+| Contador de Caracteres | <img src="https://github.com/54670912/html-js-utility/raw/main/contador/demo.gif" width="120px"> | `contador/index.html` |
 
-> 💡 Basta abrir o arquivo `index.html` para testar a ferramenta diretamente no navegador.
+> 💡 Cada miniatura GIF mostra a função em ação. Basta abrir o arquivo HTML correspondente para testar.
+
+---
+
+## 🌗 Alternar Fundo do Site  
+
+Você pode alternar o fundo do site entre branco e preto com um simples clique!  
+
+**Como usar:**
+1. Clique no botão “Alternar Fundo”.  
+2. O site muda automaticamente entre **modo claro** e **modo escuro**.  
+
+**Código usado:**
+```js
+function alternarTema() {
+  const body = document.body;
+  const temaAtual = body.dataset.tema || "claro";
+
+  if (temaAtual === "claro") {
+    body.style.backgroundColor = "#000";
+    body.style.color = "#fff";
+    body.dataset.tema = "escuro";
+  } else {
+    body.style.backgroundColor = "#fff";
+    body.style.color = "#000";
+    body.dataset.tema = "claro";
+  }
+}
+```
 
 ---
 
 ## 🧠 Como Usar / How to Use  
 
 ```bash
-# Clone este repositório
-git clone https://github.com/VisaoTop10Tech/html-js-utility.git
+git clone https://github.com/54670912/html-js-utility.git
+```
 
-# Abra o arquivo principal
-cd html-js-utility
-start index.html
+Depois, abra qualquer arquivo HTML no navegador para testar os exemplos.  
+---
+<p align="center">
+  <b>🌟 Dê uma estrela se este projeto te ajudou!</b><br>
+  <i>Seu apoio motiva a continuar criando ferramentas úteis para iniciantes.</i>
+</p>
+
 
 
 
