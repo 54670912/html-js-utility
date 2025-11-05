@@ -9,8 +9,20 @@
   <img src="https://komarev.com/ghpvc/?username=54670912&label=👀+Visualizações&color=blue&style=flat-square" alt="Contador de Visualizações"/>
 
   <!-- Contador de Estrelas do GitHub -->
-  <img src="https://img.shields.io/github/stars/54670912/html-js-utility.svg?style=for-the-badge&label=⭐+Stars" alt="GitHub Stars"/>
+ <p align="center">
+  <img src="banner.png" alt="HTML JS Utility Banner" width="100%">
 </p>
+
+<h1 align="center">🚀 HTML JS Utility</h1>
+
+<p align="center">
+  <!-- Contador de Visualizações -->
+  <img src="https://komarev.com/ghpvc/?username=54670912&label=👀+Visualizações&color=blue&style=flat-square" alt="Contador de Visualizações"/>
+  
+  <!-- Contador de Estrelas do GitHub -->
+  <img src="https://img.shields.io/github/stars/54670912/html-js-utility?style=for-the-badge&label=⭐+Stars&color=yellow" alt="GitHub Stars"/>
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Badge">
